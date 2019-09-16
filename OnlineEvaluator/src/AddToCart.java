@@ -48,3 +48,4 @@ public class AddToCart extends HttpServlet
 		res.sendRedirect("customer/Shopping.jsp?Item="+category);
 	}
 }
+

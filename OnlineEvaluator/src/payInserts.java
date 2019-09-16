@@ -85,7 +85,7 @@ String d= "NO CREDITCARD WITH THIS ID ";
 response.sendRedirect("customer/display.jsp?content= "+d);
 }
 		}
-else 
+else
 			{
 	String d ="some error  has occured";
 	response.sendRedirect("customer/display.jsp?content="+d);
