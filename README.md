@@ -22,3 +22,6 @@ worked on the web root folder for the addition of the customer section files.
 
 day 7: 
 worked on the web root folder for the addition of tutor section.
+
+# Author
+Rajkumar
